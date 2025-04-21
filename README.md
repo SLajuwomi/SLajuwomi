@@ -77,7 +77,7 @@ Other        57 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   ❞</i>
+<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
