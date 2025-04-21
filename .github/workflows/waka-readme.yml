@@ -1,0 +1,18 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master # Use master branch for latest updates
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional, required for private repos stats
+          # Optional: Add flags like SHOW_TITLE, BLOCKS, TIME_RANGE etc. See action docs.
