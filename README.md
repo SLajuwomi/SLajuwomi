@@ -77,12 +77,14 @@ Other        57 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
+
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick ❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/SLajuwomi?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugins=languages%2Cisocalendar%2Cfollowup%2Cactivity%2Ctraffic&config_timezone=America%2FChicago" alt="Lowlighter Metrics"/>
+  <img src="https://github.com/SLajuwomi/SLajuwomi/blob/main/github-metrics.svg" alt="Lowlighter Metrics"/>
 </p>
 
 ### Profile Views:
