@@ -64,7 +64,15 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be generated and inserted here automatically -->
+
+```txt
+TypeScript   8 hrs 36 mins   ████████████▓░░░░░░░░░░░░   50.34 %
+Python       2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Go           2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Markdown     1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- Random Dev Quote Section -->
