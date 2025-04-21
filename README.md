@@ -12,7 +12,7 @@
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/snake.svg" alt="Snake contribution graph animation" />
+<img src="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/github-contribution-grid-snake.svg" alt="Snake contribution graph animation" />
 </div>
 
 ### Languages and Tools I Use:
@@ -82,7 +82,7 @@ Other        57 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- Comprehensive Metrics -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/SLajuwomi?template=classic&plugins=languages%2Cisocalendar%2Cfollowup%2Cactivity%2Ctraffic&config_timezone=America%2FChicago&config.octicon=true&config.base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata" alt="Lowlighter Metrics"/>
+  <img src="https://metrics.lecoq.io/SLajuwomi?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugins=languages%2Cisocalendar%2Cfollowup%2Cactivity%2Ctraffic&config_timezone=America%2FChicago" alt="Lowlighter Metrics"/>
 </p>
 
 ### Profile Views:
