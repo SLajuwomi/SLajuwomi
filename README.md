@@ -77,7 +77,7 @@ Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
