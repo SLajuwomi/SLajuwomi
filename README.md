@@ -81,9 +81,11 @@ SQL          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
+<!--
 <p align="center">
   <img src="https://github.com/SLajuwomi/SLajuwomi/blob/main/github-metrics.svg" alt="Lowlighter Metrics"/>
 </p>
+-->
 
 ### Profile Views:
 
