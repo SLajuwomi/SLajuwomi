@@ -75,7 +75,7 @@ SQL          1 hr 8 mins     █░░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
