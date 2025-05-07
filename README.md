@@ -75,7 +75,7 @@ Go           56 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
+<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
