@@ -75,7 +75,7 @@ JSON         8 mins          █░░░░░░░░░░░░░░░░
 
 <!-- Random Dev Quote Section -->
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
+<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Comprehensive Metrics -->
