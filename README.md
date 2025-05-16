@@ -61,7 +61,7 @@
 
 ###
 
-<!-- <div align="left">
+<div align="left">
   <a href="https://www.youtube.com/@stephen_builds-v3n" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -86,19 +86,19 @@
   <a href="https://www.tiktok.com/@stephenbuilds_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
-</div> -->
+</div>
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
-## My Contribution Graph
+<!-- ## My Contribution Graph -->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLajuwomi/SLajuwomi/output/pacman-contribution-graph-dark.svg">
