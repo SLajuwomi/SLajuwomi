@@ -112,9 +112,7 @@
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<div align="center">
-  <i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
-</div>
+<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
