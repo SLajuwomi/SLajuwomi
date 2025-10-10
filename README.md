@@ -1,3 +1,1 @@
-Slow and steady wins the race.
-
-<img width="256" height="256" alt="b53da666-752c-4cc4-b87b-b2e90004265a" src="https://github.com/user-attachments/assets/62b546b7-c329-4f29-b964-f763122f612b" />
+Hey, I'm Stephen. I'm currently a senior CS student and working on improving my coding skills so I can hopefully become a cracked dev someday. 
